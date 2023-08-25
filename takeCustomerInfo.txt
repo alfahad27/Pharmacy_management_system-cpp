@@ -1,0 +1,712 @@
+Reciept Number : 1
+Customer Name : Mayur Pai B H
+Date : 19/11/2021
+Number Of Medicine Ordered : 2
+Medicine Name : Zoloft
+Medicine Quantity : 5
+Medicine Name : Dolo 650
+Medicine Quantity : 2
+Total Price : Rs. 2400.00
+
+==================================
+
+Reciept Number : 2
+Customer Name : Prathiksha Kamath
+Date : 08/04/2020
+Number Of Medicine Ordered : 2
+Medicine Name : Bupropion
+Medicine Quantity : 4
+Medicine Name : Omeprazole
+Medicine Quantity : 2
+Total Price : Rs. 2600.00
+
+==================================
+
+Reciept Number : 2
+Customer Name : Prathiksha Kamath
+Date : 08/04/2021
+Number Of Medicine Ordered : 1
+Medicine Name : HealthVit
+Medicine Quantity : 4
+Total Price : Rs. 1600.00
+
+==================================
+
+Reciept Number : 1
+Customer Name : fahad
+Date : 06-02-2002
+Number Of Medicine Ordered : 2
+Medicine Name : 06-02-2002
+Medicine Quantity : 0
+Medicine Name : 06-02-2002
+Medicine Quantity : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 0
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 25252525
+Customer Name : fahad
+Date : 20-05-2002
+Number Of Medicine Ordered : 2
+Medicine Name : 20-05-2002
+Medicine Quantity : 1701405541
+Reciept Number : 22
+Customer Name : manvi
+Date : 19/11/2021
+Number Of Medicine Ordered : 1
+Medicine Name : 19/11/2021
+Medicine Quantity : 34603536
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 23
+Customer Name : abcd
+Date : 19/11/2021
+Number Of Medicine Ordered : 1
+Medicine Name : 19/11/2021
+Medicine Quantity : 34603536
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 1
+Customer Name : abc
+Date : 22/05/2023
+Number Of Medicine Ordered : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 0
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1245
+Customer Name : kusuma
+Date : 23/05/2023
+Number Of Medicine Ordered : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 0
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 0
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 0
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 1852143727
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538980400
+Reciept Number : 0
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 34603536
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 5555
+Customer Name : kusuma
+Date : 19/11/2021
+Number Of Medicine Ordered : 1
+Medicine Name : 19/11/2021
+Medicine Quantity : 34603536
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 538976380
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 539915090
+Reciept Number : 56556
+Customer Name : dilip
+Date : 19/11/2021
+Number Of Medicine Ordered : 1
+Medicine Name : 19/11/2021
+Medicine Quantity : 34603536
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 1667391808
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 1869507948
+Reciept Number : 1970610208
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 540357920
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 0
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 0
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 555
+Customer Name : dilip
+Date : 19/11/2021
+Number Of Medicine Ordered : 2
+Medicine Name : 19/11/2021
+Medicine Quantity : 1734763876
+Reciept Number : 0
+Customer Name : vf
+Date : 19/11/2021
+Number Of Medicine Ordered : 2
+Medicine Name : 19/11/2021
+Medicine Quantity : 34603536
+Reciept Number : 2232
+Customer Name : alfa
+Date : 21/05/2023
+Number Of Medicine Ordered : 1
+Medicine Name : 21/05/2023
+Medicine Quantity : 34603536
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 1667391808
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 1869507948
+Reciept Number : 1970610208
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 540357920
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 2232
+Customer Name : ffff
+Date : 20/09/2023
+Number Of Medicine Ordered : 1
+Medicine Name : 20/09/2023
+Medicine Quantity : 34603536
+Total Price : Rs. 0.00
+
+==================================
+
+Reciept Number : 1667391808
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 1869507948
+Reciept Number : 1970610208
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 540357920
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 538976288
+Customer Name : 
+Date : 
+Number Of Medicine Ordered : 538976380
+Reciept Number : 80
+Customer Name : kusum
+Date : 20/05/2020
+Number Of Medicine Ordered : 1
+Reciept Number : 81
+Customer Name : alala
+Date : 20/05/2020
+Number Of Medicine Ordered : 1
+Medicine Name : Omeprazole
+Medicine Quantity : 1
+Total Price : Rs. 300.00
+
+==================================
+
+Receipt Number : 45
+Customer Name : gfgf
+Date : 20/05/2020
+Number Of Medicines Ordered : 1
+Medicine Name : Dolo 650
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
+Receipt Number : 45
+Customer Name : ggg
+Date : 20/05/2023
+Number Of Medicines Ordered : 1
+Medicine Name : Dolo 650
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
+Receipt Number : 56
+Customer Name : ggg
+Date : 20/05/2023
+Number Of Medicines Ordered : 1
+Medicine Name : CITRA C
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
+Reciept Number : 41
+Customer Name : gg
+Date : 20/05/2023
+Number Of Medicine Ordered : 1
+Medicine Name : Dolo 650
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
+Receipt Number : 10
+Customer Name : fgf
+Date : 20/05/2002
+Number Of Medicines Ordered : 1
+Medicine Name : Dolo 650
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
+Receipt Number : 47
+Customer Name : hf
+Date : 20/05/2021
+Number Of Medicines Ordered : 1
+Medicine Name : Dolo 650
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
+Receipt Number: 58
+Customer Name: ll
+Date: 20/02/2020
+Number Of Medicines Ordered: 1
+Medicine Name: Dolo 650
+Medicine Quantity: 1
+Total Price: Rs. 200.00
+
+==================================
+
+Receipt Number : 58
+Customer Name : appu
+Date : 25/05/2023
+Number Of Medicines Ordered : 1
+Medicine Name : Dolo 650
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
+Receipt Number : 25
+Customer Name : fahad
+Date : 27/07/2023
+Number Of Medicines Ordered : 1
+Medicine Name : CITRA C
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
